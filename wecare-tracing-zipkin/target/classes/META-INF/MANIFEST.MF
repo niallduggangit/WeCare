@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: hughd
+Build-Jdk: 17.0.4
+Implementation-Title: wecare-tracing-zipkin
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.infosys.wecare.tracing
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/WeCareTracing
+Created-By: Maven Integration for Eclipse
+
